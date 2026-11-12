@@ -1,0 +1,35 @@
+[33mcommit b7f885d4ea368cc79b3eb45e558c922aafa7217b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Tatiana Blisac <ttblsc6@gmail.com>
+Date:   Thu Nov 12 10:08:25 2026 +0100
+
+    Ajout du README avec les réponses
+
+[33mcommit 1e1273a776e6c07508055afe8af83b0af4bc8416[m
+Author: Tatiana Blisac <ttblsc6@gmail.com>
+Date:   Thu Nov 12 09:49:37 2026 +0100
+
+    Ajout du README
+
+[33mcommit 0984c5602b35d8cee80545086d6b75f84cfdedc8[m
+Author: Tatiana Blisac <ttblsc6@gmail.com>
+Date:   Thu Nov 12 09:48:27 2026 +0100
+
+    Ajout des tests de non-régression
+
+[33mcommit e876e2ac9e3ac863a144b8b8caf90918dfe3aadc[m
+Author: Tatiana Blisac <ttblsc6@gmail.com>
+Date:   Thu Nov 12 09:48:14 2026 +0100
+
+    LSP : Rectangle et Square implémentent l'interface Shape
+
+[33mcommit 596b8ff805794a1038233af35f301b1e58d4f700[m
+Author: Tatiana Blisac <ttblsc6@gmail.com>
+Date:   Thu Nov 12 09:45:46 2026 +0100
+
+    OCP : remplacement des if par le pattern Strategy et ajout de BlackFridayDiscount
+
+[33mcommit a43061ca848de00b17cac57e506671c46bc9f0c1[m
+Author: Tatiana Blisac <ttblsc6@gmail.com>
+Date:   Thu Nov 12 09:44:04 2026 +0100
+
+    SRP : séparation de Invoice en Calculator, Printer et Repository
